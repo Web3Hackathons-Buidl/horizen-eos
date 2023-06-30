@@ -6,10 +6,13 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.16.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "web3": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +37,20 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web3Hackathons-Buidl/horizen-eos.git"
+  },
+  "author": "@askcasmir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Web3Hackathons-Buidl/horizen-eos/issues"
+  },
+  "homepage": "https://github.com/Web3Hackathons-Buidl/horizen-eos#readme"
 }
